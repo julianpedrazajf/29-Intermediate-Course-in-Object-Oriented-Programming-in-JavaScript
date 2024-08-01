@@ -1,0 +1,2 @@
+# 29-Intermediate-Course-in-Object-Oriented-Programming-in-JavaScript
+I have learned in detail how objects work in JavaScript from the core, and I have discovered ways to "hack" the prototype system to our advantage. This will allow me to take full advantage of these concepts and apply object-oriented programming optimally in my projects. I am excited to use these techniques to write more efficient and effective code
